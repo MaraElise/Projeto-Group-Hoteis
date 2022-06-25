@@ -15,7 +15,7 @@ Data Cleansing e Regressão Linear para utilização dos coeficientes como influ
  ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy)
  ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat-square&logo=Matplotlib)
- ![Sklearn.linear](https://img.shields.io/badge/-Sklearn.linear-black?style=flat-square&logo=Sklearn.linear)
+ ![LinearRegression](https://img.shields.io/badge/-LinearRegression-black?style=flat-square&logo=LinearRegression)
  ![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=Tableau)
 
 
