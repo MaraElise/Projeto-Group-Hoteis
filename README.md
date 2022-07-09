@@ -6,7 +6,7 @@ Foram consideradas para a análise:
 
 Scraping api google places para busca dos bairros e locais estrategicos em um raio de 1,5 Km a partir dos bairros
 
-Data Cleansing e Regressão Linear para utilização dos coeficientes para avaliação dos locais influenciadores da avaliação do bairro
+Data Cleansing e Regressão Linear para utilização dos coeficientes para consideração dos locais influenciadores da avaliação do bairro
 
 
 
