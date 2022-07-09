@@ -8,7 +8,9 @@ Scraping api google places para busca dos bairros e locais estrategicos em um ra
 
 Data Cleansing e Regressão Linear para utilização dos coeficientes para avaliação dos locais influenciadores da avaliação do bairro
 
--**1** Para remoção de dados e análise do database e API:
+
+
+Para remoção de dados e análise do database e API:
 <b> **Linguagens e Ferramentas</b>:**
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
  ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
