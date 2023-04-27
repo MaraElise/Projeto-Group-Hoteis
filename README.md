@@ -6,7 +6,9 @@ Além disso, foram utilizadas análise exploratória, pré-processamento de dado
 
 
 
-Para pré-processamento e análise do database e API:
+Para pré-processamento e análise do database e API
+
+
 <b> **Linguagens e Ferramentas</b>:**
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
  ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
