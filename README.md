@@ -1,16 +1,12 @@
-# Projeto-Group-Hoteis
+# Projeto-Group-Hoteis 🏨
 
-O projeto foi baseado em perguntas de negócio para aberturas de hotéis em cidades Brasileiras
-
-Foram consideradas para a análise:
-
-Scraping api google places para busca dos bairros e locais estrategicos em um raio de 1,5 Km a partir dos bairros
-
-Data Cleansing e Regressão Linear para utilização dos coeficientes para consideração dos locais influenciadores da avaliação dos bairros
+O projeto Grupo de Hotéis foi criado com o objetivo de atender às necessidades de uma empresa do ramo hoteleiro (fictício) com a intenção de expandir seus negócios em alguns estados brasileiros.
+Foram utilizadas diversas técnicas para análise de dados e sugestão final de locais, incluindo a API/scraping do Google Places, para identificar os bairros mais promissores e locais estratégicos dentro de um raio de 1,5 km a partir de áreas centrais. 
+Além disso, foram utilizadas análise exploratória, pré-processamento de dados e regressão linear para identificar os coeficientes mais relevantes para considerar os pontos estrategicos que influenciariam positivamente na avaliação desses bairros. 
 
 
 
-Para remoção de dados e análise do database e API:
+Para pré-processamento e análise do database e API:
 <b> **Linguagens e Ferramentas</b>:**
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
  ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
@@ -22,7 +18,7 @@ Para remoção de dados e análise do database e API:
 
 
 
-Data viz/Análise Tableau
+Data viz/Análise Tableau 💻
 https://public.tableau.com/app/profile/mara.elise/viz/GroupHotelProject2022_/SSGroup?publish=yes
 
 
